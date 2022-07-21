@@ -205,4 +205,9 @@ public class LobbyController : MonoBehaviour
             }
         }
     }
+
+    public void StartGame(string SzeneName)
+    {
+        LocalplayerController.CanStartGame(SzeneName);
+    }
 }
