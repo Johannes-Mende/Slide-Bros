@@ -187,7 +187,7 @@ MonoBehaviour:
   syncInterval: 0.1
   PlayerModel: {fileID: 906677489458021927}
   moveSpeed: 3
-  jumpForce: 40
+  jumpForce: 45
   isJumping: 0
 --- !u!114 &878939773044676861
 MonoBehaviour:
